@@ -11,3 +11,10 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.pardeep {
+  color: brown;
+  font-size:  25px;
+  font-weight: 600;
+  background-color: cadetblue;
+}
