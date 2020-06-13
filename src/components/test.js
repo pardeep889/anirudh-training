@@ -1,13 +1,12 @@
 import React from "react";
 import "./index.css";
 
-export function App() {
-    const mystyle = {color: "red", backgroundColor: "yellow"}
+export function App(props) {
+
   return (
     <>
       <div className="myclass">
-        Hello World
-        <span style={mystyle}>new</span>
+        {props.test}
       </div>
     </>
   );
@@ -24,3 +23,6 @@ export function Test(){
 }
 
 export default App;
+
+// props
+// state
