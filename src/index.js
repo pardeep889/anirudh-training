@@ -6,7 +6,8 @@ import "./index.css";
 // import NewComponent from "./NewComponent";
 // import {App} from "./components/test";
 // import AppOne from "./components/testOne";
-import App from "./components/validationProps/validation"
+// import App from "./components/validationProps/validation"
+import App from "./components/validationProps/practice"
 
 import * as serviceWorker from "./serviceWorker";
 
