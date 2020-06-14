@@ -52,3 +52,12 @@ export default AppOne;
 // life cycle (inbuilt functions)
 // this concept
 // variable types
+
+// form
+// events
+// state validation
+// html validation
+// default props
+// map function
+// dynamic form
+// pure component
