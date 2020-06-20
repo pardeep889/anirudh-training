@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import MyReactNativeComponent from "../../components/anirudh/styled-component";
+import { Title } from "./styled";
 class Index extends Component {
   constructor(props) {
     super(props);
@@ -65,7 +66,9 @@ class Index extends Component {
           <br />
           <input type="submit" value="Submit Data"/>
 
-          <MyReactNativeComponent/>
+          <Title>This is Title</Title>
+
+          {/* <MyReactNativeComponent/> */}
         </form>
       </div>
     );

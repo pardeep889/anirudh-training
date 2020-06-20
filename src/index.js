@@ -8,11 +8,12 @@ import "./index.css";
 // import AppOne from "./components/testOne";
 // import App from "./components/validationProps/validation"
 // import App from "./components/validationProps/practice"
-// import App from "./components/hussain/index";
+import App from "./components/hussain/index";
 
 import * as serviceWorker from "./serviceWorker";
 import {BrowserRouter} from "react-router-dom";
-import Routes from "./routes";
+// import Routes from "./routes";
+import Routes from "./components/hussain/routing/routes";
 
 // const a = "test";
 
@@ -25,6 +26,13 @@ ReactDOM.render(
   </React.StrictMode>,
   document.getElementById("root")
 );
+
+// ReactDOM.render(
+//   <React.StrictMode>
+//       <App/>
+//   </React.StrictMode>,
+//   document.getElementById("root")
+// );
 
 serviceWorker.unregister();
 

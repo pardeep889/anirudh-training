@@ -19,5 +19,5 @@ export default Pardeep;
 
 // 1. import css
 // 2. object styling.
-// 3. styled componets
+// 3. styled componets -> object components, functional components, class based components, etc.
 // 4. inline styling
