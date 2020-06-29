@@ -44,3 +44,4 @@ export default UserComponent;
 // api axios ,
 // revised hoc
 // parent component function call from child
+// generators and iterators in javascript
